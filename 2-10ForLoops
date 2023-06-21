@@ -1,0 +1,3 @@
+app_names = ['Facebook', 'Instagram', 'Clash of Clans', 'Fruit Ninja Classic', 'Minecraft: Pocket Edition']
+for element in app_names:
+    print(element)
