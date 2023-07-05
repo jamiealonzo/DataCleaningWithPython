@@ -1,0 +1,4 @@
+a_price = 1
+
+print(a_price ==0)
+print(a_price == 1)
