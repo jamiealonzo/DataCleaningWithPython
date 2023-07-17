@@ -1,0 +1,11 @@
+if False:
+    print("2 + 2 == 5")
+    print("lemons are sour")
+
+if True:
+    print("the sky is blue")
+    print("5 >= 3")
+    
+if False:
+    print("spheres have corners")
+    print("7 / 5 == 2")
